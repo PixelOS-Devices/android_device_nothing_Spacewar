@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f2b876f4_bec6a96a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000018
+      },
+      "writtenOn": "2026-09-19T15:40:53Z",
+      "side": 1,
+      "message": "squash with https://review.pixelos.net/c/PixelOS-Devices/android_device_nothing_Spacewar/+/10750/1",
+      "revId": "20a1b78b37b329f0dd17a96476c3829fc159cc0a",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
