@@ -1,5 +1,9 @@
 [
   {
+    "repository": "PixelOS-Devices/android_device_nothing_camera-Spacewar",
+    "target_path": "device/nothing/camera-Spacewar"
+  },
+  {
     "repository": "PixelOS-AOSP/android_hardware_nothing",
     "target_path": "hardware/nothing"
   },
@@ -11,5 +15,10 @@
     "remote": "gitlab",
     "repository": "NoPrincessHere/proprietary_vendor_nothing_Spacewar",
     "target_path": "vendor/nothing/Spacewar"
+  },
+  {
+    "remote": "gitlab",
+    "repository": "NoPrincessHere/proprietary_vendor_nothing_camera-Spacewar",
+    "target_path": "vendor/nothing/camera-Spacewar"
   }
 ]
